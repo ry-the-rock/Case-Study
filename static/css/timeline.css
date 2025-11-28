@@ -1,3 +1,6 @@
+@import "https://codepen.io/cbolson/pen/rNEdgKo.css" layer(template);
+@layer template, demo;
+
 @layer demo {
   /* Hide radio buttons */
     input[type="radio"] {
