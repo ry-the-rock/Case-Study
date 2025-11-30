@@ -37,15 +37,17 @@
 
   margin-bottom: 20px; */
   border-radius: 6px;
+
+  .format-box {
+    margin-left: 150px;
+  }
 }
 
 .timeline-component {
   margin: 0px 20px 20px 20px;
 }
 
-.format-box {
-  margin-left: 150px;
-}
+
 
 @media screen and (min-width: 768px) {
   .timeline {
