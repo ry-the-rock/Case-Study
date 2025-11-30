@@ -38,10 +38,11 @@
   margin-bottom: 20px; */
   border-radius: 6px;
 
-  .format-box {
+  .format-box-text {
     position: relative;
-    right: 150px;
+    right: 160px;
   }
+
 }
 
 .timeline-component {
