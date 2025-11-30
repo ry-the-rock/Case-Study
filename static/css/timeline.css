@@ -33,16 +33,16 @@
   padding: 1.75rem;
   transition: 0.4s ease;
   overflow-wrap: break-word !important;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  /* margin-left: 1rem;
+  margin-right: 1rem; */
 
   /* margin-bottom: 20px; */
   border-radius: 6px;
 }
 
-.timeline-component {
+/* .timeline-component {
   margin: 0px 20px 20px 20px;
-}
+} */
 
 @media screen and (min-width: 768px) {
   .timeline {
