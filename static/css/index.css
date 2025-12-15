@@ -228,7 +228,7 @@ body {
     overflow: hidden;
     border-radius: var(--border-radius-lg) !important;
     box-shadow: var(--shadow-xl);
-    /* transition: var(--transition); */
+    transition: var(--transition);
 }
 
 .publication-video:hover {
@@ -248,7 +248,7 @@ body {
 .publication-body img {
   border-radius: var(--border-radius);
   box-shadow: var(--shadow-md);
-  /* transition: var(--transition); */
+  transition: var(--transition);
 }
 
 .publication-body img:hover {
@@ -269,7 +269,7 @@ body {
   background: var(--background-primary);
   border-radius: var(--border-radius-lg);
   box-shadow: var(--shadow-md);
-  /* transition: var(--transition); */
+  transition: var(--transition);
   border: 1px solid var(--border-color);
 }
 
