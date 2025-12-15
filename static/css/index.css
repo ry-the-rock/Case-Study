@@ -20,7 +20,8 @@
   --gradient-subtle: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
   --border-radius: 12px;
   --border-radius-lg: 16px;
-  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  /* --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); */
+  --transition: all cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* Smooth scrolling for better UX */
@@ -269,7 +270,7 @@ body {
   background: var(--background-primary);
   border-radius: var(--border-radius-lg);
   box-shadow: var(--shadow-md);
-  /* transition: var(--transition); */
+  transition: var(--transition);
   border: 1px solid var(--border-color);
 }
 
